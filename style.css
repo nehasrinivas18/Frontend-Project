@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+.carousel-caption{
+    background: rgba(0,0,0,0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.card{
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.03);
+}
+
+
+.stats-section{
+    background-color: #f8f9fa;
+}
+
+
+footer{
+    font-size: 15px;
+}
